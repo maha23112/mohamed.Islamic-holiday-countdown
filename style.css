@@ -1,0 +1,44 @@
+<style type="text/css">
+body {
+    background: #f6f6f6;
+     background-image: url("ramadan.jpeg");
+  }
+
+
+.countdownContainer{
+    position: absolute;;
+    top: 50%;
+    left: 50%;
+    transform : translateX(-50%) translateY(-50%);
+    text-align: center;
+    background: rgb(231, 206, 91);
+    border: 1px solid rgb(240, 218, 92);
+    padding: 10px;
+    box-shadow: 0 0 5px 3px #4f95f1;
+}
+
+.info {
+    font-size: 80px;
+}
+h1{
+border: 5px solid rgb(255, 247, 132);
+top: 39px;
+bottom: 50px;
+text-align: center;
+font-size: 50px;
+color: rgb(247, 247, 247);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+
+top: 39px;
+bottom: 50px;
+text-align: center;
+text-align-last: center;
+font-size: 50px;
+color: rgb(247, 247, 247);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+</style>
